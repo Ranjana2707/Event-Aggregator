@@ -30,3 +30,10 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
+## Future Improvements
+
+- Implement user authentication and authorization
+- Add event bookmarking functionality for users
+- Enable event notifications and reminders
+- Introduce advanced filtering and recommendation system
+
